@@ -7,8 +7,8 @@ It is more a checklist than an absolute list of commandments, and can evolve ove
 Make a component that
 - is easy, almost instinctive to use (nothing near Formik or React Router)
 - solves a particular yet simple problem almost any developer has encountered, even if almost trivial (e.g. VCenter or Sep)
-- uses CSS as often as possible, and fall back to JS only if CSS is not an option (e.g. AspectRatio)
-- 
+- has as few props as possible, to avoid the constant need of referring to the API.
+- uses CSS as often as possible, and fall back to JS only if CSS is not an option. (e.g. AspectRatio)
 
 The article should: 
 - have a storytelling clearly defined

@@ -86,5 +86,5 @@ It went from "purely presentational, without styling" to "presentational with st
 
 TODO parler de pq vertical-align est chelou a cause de ca + cross link vers article vcenter
 TODO parler de margin et padding en %, qui prennent la largeur et pas la hauteur pour le calcul
-
+TODO truc chelou du height dans flexlayout
  
